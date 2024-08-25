@@ -116,7 +116,7 @@ Additionally, an image grid is displayed where the model's predictions are compa
 To start the training, run the Python script:
 
 ```bash
-python train_model.py
+python main.py
 ```
 
 ## Visualizations
